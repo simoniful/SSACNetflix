@@ -14,6 +14,8 @@ class TextViewController: UIViewController {
 
         print("Hello")
         print("Name")
+        print("ami")
+        print("simon")
     }
 
 }
