@@ -13,6 +13,7 @@ class TextViewController: UIViewController {
         super.viewDidLoad()
 
         print("Hello")
+        print("Name")
     }
 
 }
